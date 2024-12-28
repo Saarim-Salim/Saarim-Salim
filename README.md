@@ -16,14 +16,13 @@
 <br clear="both">
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Saarim-Salim&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saarim-Salim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Saarim-Salim&locale=en&mode=daily&theme=jolly&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saarim-Salim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
