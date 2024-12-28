@@ -1,12 +1,23 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Saarim and I'm a Software Engineer, graduating this summer with a major in Computer Engineering </h2>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I'm an aspiring software engineer, with a strong passion for well optimized and up-to-date workflows. \
+🎓&nbsp;I am a final year student at National Institute of Technology, Kurukshetra (B.Tech, Computer Engineering, Batch of 2025).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, NLP and general software development.\
+✍️ &nbsp;In my free time, I like to sip on tea, read, and pursue writing as my hobbies.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at saarimsalim@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/saarimsalim/) for more details about work experience.
+
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saarim-Salim&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&custom_title=GitHub%20Stats" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Saarim-Salim&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+
+  <img src="https://streak-stats.demolab.com?user=Saarim-Salim&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saarim-Salim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
