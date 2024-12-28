@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Saarim and I'm a Software Engineer, graduating this summer with a major in Computer Engineering </h2>
+<h2 align="left">Hi 👋! My name is Saarim and I'm a final year Computer Engineering student at NIT Kurukshetra </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
