@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a recent computer engineering graduate, with a strong passion for well optimized and up-to-date software systems. \
+💡 &nbsp;I'm a Software Engineer with a strong passion for well optimized and up-to-date software systems. \
 🎓&nbsp;I am a Computer Engineer from **National Institute of Technology, Kurukshetra** (B.Tech Computer Engineering, Batch of 2025).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, NLP and general software development.\
 ✍️ &nbsp;In my free time, I like to sip on tea, read, and pursue writing as my hobbies.\
